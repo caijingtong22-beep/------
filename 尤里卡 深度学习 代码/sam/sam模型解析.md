@@ -9,8 +9,8 @@ https://blog.csdn.net/m0_73904484/article/details/155454014
 
 - SAM整体结构图
 
-  ![image-20260519185752955](C:\Users\Alice\AppData\Roaming\Typora\typora-user-images\image-20260519185752955.png)
-
+  <!-- ![image-20260519185752955](C:\Users\Alice\AppData\Roaming\Typora\typora-user-images\image-20260519185752955.png) -->
+![SAM架构](images/sam_arch.png)
 ---
 
 # 1. SAM整体架构
